@@ -3768,7 +3768,7 @@ end)
 
  
 --------------------------------------------------------------------
-local Library = Update:Window("An Hub  ","")
+local Library = Update:Window("Test Hub - Powered by flontium  ","")
 ------------------------------------------
 
 spawn(function()
